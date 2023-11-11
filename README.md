@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Currently working on a personal startup project<br>👀 Looking to collaborate on interesting startup projects<br>🌱 Looking for help in react<br>📚 REACT + JS + TAILWIND <br>📫 Ask me about anything you need<br> 🖤 Looking my portfolio [https://my-main-portfolio-ten.vercel.app](https://kevinmorr.vercel.app/)](https://kevinmorr.vercel.app/)
+👋 Currently working on a personal startup project<br>👀 Looking to collaborate on interesting startup projects<br>🌱 Looking for help in react<br>📚 REACT + JS + TAILWIND <br>📫 Ask me about anything you need<br> 🖤 Looking my portfolio (https://kevinmorr.vercel.app/)](https://kevinmorr.vercel.app/)
 
 
 ## 🌐 Socials:
