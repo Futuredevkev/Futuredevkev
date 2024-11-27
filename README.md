@@ -19,7 +19,8 @@ Here are two pages I created for clients:
 A modern website for a real estate agency
 
 ![Client Website 1]
-https://johngelos.com/
+<a href="https://johngelos.com/" target="_blank">
+
 
 ---
 
@@ -27,7 +28,8 @@ https://johngelos.com/
 A modern website for a photographer
 
 ![Client Website 2]
-https://mmfotosuy.com
+<a href="https://mmfotosuy.com" target="_blank">
+
 
 ---
 
