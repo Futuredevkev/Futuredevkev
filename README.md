@@ -25,6 +25,21 @@
 
 ---
 
+## Contact us
+
+<a href="https://www.instagram.com/keb.iiii" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://www.linkedin.com/in/kevin-moreira-3788b1272" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="mailto:hackapa55@outlook.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<br/>
+
+---
+
 ### Languages and Tools 🛠 
 
 
