@@ -16,18 +16,16 @@
 Here are two pages I created for clients:
 
 ### 1. [Client's Website 1](#) 💻  
-A modern and responsive website for a local business. It includes a clean design and smooth interactions.  
-🛠️ Technologies: HTML, CSS, JavaScript, React  
+A modern website for a real estate agency
 
-![Client Website 1](https://via.placeholder.com/500x250)  
+![Client Website 1](https://johngelos.com/)
 
 ---
 
 ### 2. [Client's Website 2](#) 🌍  
-A dynamic platform for connecting with people globally. This project features an interactive user interface and real-time data updates.  
-🛠️ Technologies: Node.js, Express, MongoDB, Socket.io  
+A modern website for a photographer
 
-![Client Website 2](https://via.placeholder.com/500x250)
+![Client Website 2](https://mmfotosuy.com)
 
 ---
 
