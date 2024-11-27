@@ -18,14 +18,16 @@ Here are two pages I created for clients:
 ### 1. [Client's Website 1](#) 💻  
 A modern website for a real estate agency
 
-![Client Website 1](https://johngelos.com/)
+![Client Website 1]
+https://johngelos.com/
 
 ---
 
 ### 2. [Client's Website 2](#) 🌍  
 A modern website for a photographer
 
-![Client Website 2](https://mmfotosuy.com)
+![Client Website 2]
+https://mmfotosuy.com
 
 ---
 
