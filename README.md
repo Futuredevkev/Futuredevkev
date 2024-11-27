@@ -11,6 +11,26 @@
 
 ---
 
+## My Work 🌟
+
+Here are two pages I created for clients:
+
+### 1. [Client's Website 1](#) 💻  
+A modern and responsive website for a local business. It includes a clean design and smooth interactions.  
+🛠️ Technologies: HTML, CSS, JavaScript, React  
+
+![Client Website 1](https://via.placeholder.com/500x250)  
+
+---
+
+### 2. [Client's Website 2](#) 🌍  
+A dynamic platform for connecting with people globally. This project features an interactive user interface and real-time data updates.  
+🛠️ Technologies: Node.js, Express, MongoDB, Socket.io  
+
+![Client Website 2](https://via.placeholder.com/500x250)
+
+---
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
